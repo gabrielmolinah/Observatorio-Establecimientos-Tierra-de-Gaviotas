@@ -5,4 +5,8 @@ Su implementación está basada en Python y hace uso del [Directorio de Establec
 
 ![image](https://github.com/gabrielmolinah/Observatorio-Establecimientos-Tierra-de-Gaviotas/assets/107077409/7475fac9-ac5a-41f3-bd88-d194bda17d82)
 
+![image](https://github.com/gabrielmolinah/Observatorio-Establecimientos-Tierra-de-Gaviotas/assets/107077409/63a8a963-1b59-4a06-85cf-0e8802a23c85)
+
 ![image](https://github.com/gabrielmolinah/Observatorio-Establecimientos-Tierra-de-Gaviotas/assets/107077409/d17c2b57-d496-4409-8c04-c88880cd08fe)
+
+![image](https://github.com/gabrielmolinah/Observatorio-Establecimientos-Tierra-de-Gaviotas/assets/107077409/a58bbc8b-7c5f-46c5-9dc5-a72c220a86e9)
